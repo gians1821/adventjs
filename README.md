@@ -8,3 +8,7 @@ Aquí guardaré todas mis soluciones a los retos propuestos en la página de <a 
 ## Reto 3
 <img width="919" alt="image" src="https://github.com/user-attachments/assets/948c0352-2ac5-4de8-9504-e60661359547" />
 <br>
+
+## Reto 4
+<img width="919" alt="image" src="https://github.com/user-attachments/assets/0b74c660-c0e1-4412-9c96-70769256c675" />
+<br>
